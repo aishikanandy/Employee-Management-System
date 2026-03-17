@@ -48,3 +48,7 @@
   - ### Functions:
   
   - Created a user-defined function to concatenate first and last names, enhancing query capabilities.
+ 
+  ## Author
+
+  Aishika Nandy
